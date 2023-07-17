@@ -1,6 +1,6 @@
 # Author: Hernandez  Lopez Raul  @Neo
 # Email:     freeenergy1975@gmail.com
-# Date:Miercoles 19 de enero del 2022
+# Date: Viernes 14 de Julio  del 2022
 
 from pydantic import BaseModel
 from typing import Optional
