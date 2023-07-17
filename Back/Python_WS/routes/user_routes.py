@@ -1,3 +1,7 @@
+# Author: Hernandez  Lopez Raul  @Neo
+# Email:     freeenergy1975@gmail.com
+# Date:  Viernes 14 de Julio del 2023
+
 from fastapi import APIRouter
 from models.user_model import User
 from schemas.user_schema import UserBaseModel
