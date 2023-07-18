@@ -1,3 +1,7 @@
+# Author: Hernandez  Lopez Raul  @Neo
+# Email:     freeenergy1975@gmail.com
+# Date:  Viernes 14 de Julio del 2023
+
 import os
 os.environ['PYTHONPATH'] = 'Python_WS/connection'
 
