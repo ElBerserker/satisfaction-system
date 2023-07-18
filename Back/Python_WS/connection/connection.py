@@ -1,6 +1,6 @@
 # Author: Hernandez  Lopez Raul  @Neo
 # Email:     freeenergy1975@gmail.com
-# Date:Miercoles 14 de Julio del 2023
+# Date:  Viernes 14 de Julio del 2023
 from peewee import *
 
 # Establishes the credentials for accessing the database
